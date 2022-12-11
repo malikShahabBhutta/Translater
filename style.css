@@ -1,0 +1,17 @@
+
+textarea{
+    width: 50vh;
+    height: 20vh;
+    display: block;
+    padding: 1rem;
+    margin: 1rem;
+}
+.into{
+    color: skyblue;
+    padding: 1rem;
+    margin: 1rem;
+}
+button{
+    padding: 0.5rem;
+    margin: 1rem;
+}
